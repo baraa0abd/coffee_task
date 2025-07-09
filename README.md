@@ -1,7 +1,7 @@
 # Coffee App
 
 This is a Jetpack Compose Android application for ordering and customizing coffee drinks. The app features a modern, responsive UI that adapts to both portrait and landscape orientations, and preserves user state across device rotations.
-
+**YouTube Video: https://www.youtube.com/watch?v=-5i4i5XsPMA** 
 ## Features
 - Select coffee type, cup size, and intensity
 - Animated drink and cup switchers
